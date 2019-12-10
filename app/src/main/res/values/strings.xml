@@ -1,0 +1,54 @@
+<resources>
+    <!-- Home-->
+    <string name="app_name">TheMovieCatalogue</string>
+    <string name="movies">Movies</string>
+    <string name="tvShows">Tv Shows</string>
+    <string name="searchView">Search for a movie, tv show&#8230;</string>
+    <string name="more_info">More info&#8230;</string>
+
+    <!-- detail-->
+    <string name="enlarge">(Click Image to enlarge)</string>
+    <string name="genre">Genre</string>
+    <string name="release_date">Release Date</string>
+    <string name="rating">Rating</string>
+    <string name="overview">Overview</string>
+    <string name="trailer">Trailer</string>
+    <string name="cast">Cast</string>
+    <string name="as">as</string>
+    <string name="share">Share to: </string>
+    <string name="addFav">Add to My Favorite</string>
+    <string name="delFav">Delete from My Favorite</string>
+
+    <!--Favorite-->
+    <string name="fav_mov">My Favorite Movies</string>
+    <string name="fav_tv">My Favorite Tv Shows</string>
+    <string name="textFavMovie">No Favorite yet</string>
+
+    <!--Settings-->
+    <string name="settings">Settings</string>
+    <string name="lang">Change Language</string>
+    <string name="lang_subtitle">Only available on Bahasa and English</string>
+
+    <!--Search-->
+    <string name="searchMovResults">Search Movie Results</string>
+    <string name="searchTVResults">Search TV Show Results</string>
+    <string name="noSearchMovie">No Movie Available</string>
+    <string name="noSearchTV">No Serial TV Available</string>
+
+    <!--Error-->
+    <string name="error">Something went wrong. Please check your connection. </string>
+    <string name="failed">Failed</string>
+    <string name="notEnoughData">Sorry, we don"'"t have enough data based on </string>
+    <string name="empty_text">There is no Favorite Content</string>
+
+    <!--Reminder-->
+    <string name="release_reminder_title">Release Reminder</string>
+    <string name="release_reminder_subtitle">Reminder showing the movie that released today</string>
+    <string name="release_reminder_on">Release Reminder is set</string>
+    <string name="release_reminder_off">Release Reminder is not set</string>
+    <string name="daily_reminder_title">Daily Reminder</string>
+    <string name="daily_reminder_subtitle">Reminder to return to app daily</string>
+    <string name="daily_reminder_on">Daily Reminder is set</string>
+    <string name="daily_reminder_off">Daily Reminder is not set</string>
+    <string name="daily_reminder_message">Let"'"s discover Movies, Tv Shows</string>
+</resources>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <!-- Home-->
+    <string name="app_name">TheMovieCatalogue</string>
+    <string name="movies">Film</string>
+    <string name="tvShows">Serial TV</string>
+    <string name="searchView">Cari sebuah film, serial tv&#8230;</string>
+    <string name="more_info">Selengkapnya&#8230;</string>
+
+    <!-- detail-->
+    <string name="enlarge">(Klik gambar untuk memperbesar)</string>
+    <string name="genre">Genre</string>
+    <string name="release_date">Tanggal Rilis</string>
+    <string name="rating">Penilaian</string>
+    <string name="overview">Ulasan Singkat</string>
+    <string name="trailer">Trailer</string>
+    <string name="cast">Pemeran</string>
+    <string name="as">sebagai</string>
+    <string name="share">Bagikan ke:</string>
+    <string name="addFav">Menambah ke Favorit Saya</string>
+    <string name="delFav">Menghapus dari Favorit Saya</string>
+
+    <!--Favorite-->
+    <string name="fav_mov">Film Favorit Saya</string>
+    <string name="fav_tv">Serial Tv Favorit Saya</string>
+    <string name="textFavMovie">Tidak ada Favorit</string>
+
+    <!--Settings-->
+    <string name="settings">Pengaturan</string>
+    <string name="lang">Ubah Bahasa</string>
+    <string name="lang_subtitle">Hanya tersedia dalam Bahasa dan Inggris</string>
+
+    <!--Search-->
+    <string name="searchMovResults">Pencarian Film</string>
+    <string name="searchTVResults">Pencarian Serial TV</string>
+    <string name="noSearchMovie">Film tidak tersedia</string>
+    <string name="noSearchTV">Serial TV tidak tersedia</string>
+
+    <!--Error-->
+    <string name="error">Terjadi Kesalahan. Mohon periksa jaringan anda.</string>
+    <string name="failed">Gagal</string>
+    <string name="notEnoughData">Maaf, kami tidak punya cukup data untuk disajikan berdasarkan judul </string>
+    <string name="empty_text">Tidak ada Konten Favorit</string>
+
+    <!--Reminder-->
+    <string name="release_reminder_title">Pengingat Rilis</string>
+    <string name="release_reminder_subtitle">Pengingat untuk menampilkan film yang rilis hari ini</string>
+    <string name="release_reminder_on">Pengingat Rilis diaktifkan</string>
+    <string name="release_reminder_off">Pengingat Rilis dinonaktifkan</string>
+    <string name="daily_reminder_title">Pengingat Harian</string>
+    <string name="daily_reminder_subtitle">Pengingat untuk kembali ke aplikasi setiap hari</string>
+    <string name="daily_reminder_on">Pengingat harian diaktifkan</string>
+    <string name="daily_reminder_off">Pengingat harian dinonaktifkan</string>
+    <string name="daily_reminder_message">Temukan Film, Serial TV</string>
+</resources>
