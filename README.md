@@ -1,5 +1,5 @@
 # TheMovieCatalogue
-Projek akhir dari event Indonesia Android Kejar 2019, yang diselenggarakan Google Developers Indonesia & Dicoding Indonesia.
+Projek akhir dari event Google Developers Kejar 2019, yang diselenggarakan Google Developers Indonesia & Dicoding Indonesia.
 Modul disediakan oleh Dicoding Indonesia https://www.dicoding.com/academies/14
 <br>
 Aplikasi ini menyediakan catalogue Movie, dan Acara TV. Menggunakan API dari http://api.themoviedb.org/
